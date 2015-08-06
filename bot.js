@@ -60,7 +60,7 @@ if (!botBannedWords.links) {
 }
 
 var config = {
-	name: 'LumenBoTTT',
+	name: 'Infinitybottt',
 	userid: function () {
 		return toId(this.name);
 	},
